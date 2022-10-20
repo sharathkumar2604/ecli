@@ -1,14 +1,11 @@
 package com.xworks.overriding;
-public class Rbi
-{
-double getInterestRate()
-{
 
-System.out.print("the rbi interest rate");
+public class Rbi {
+	double getInterestRate() {
 
-return 11.77;
+		System.out.print("the rbi interest rate");
 
+		return 11.77;
+
+	}
 }
-}
-
-

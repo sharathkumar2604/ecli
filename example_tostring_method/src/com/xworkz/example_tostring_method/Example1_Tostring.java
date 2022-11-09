@@ -13,7 +13,7 @@ public class Example1_Tostring {
 	}
 
 	@Override                           // this is to override not toprint  "fully collified object " means package+class name followed by some hashcode 
-	public String toString() {
+	public String toString() {//
 		return "Example1_Tostring[name1:" +name1+ "]";// return class name and initialize the string name
 	}
 

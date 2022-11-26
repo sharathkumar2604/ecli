@@ -10,13 +10,13 @@ public class Brands {
 	Brands(String brandName,double price)
 	{
 		this.brandName=brandName;
-		this.price=price;
+		this.price=price;//
 		
 	}
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(brandName, price);
+		return Objects.hash(brandName, price);//
 	}
 
 	@Override

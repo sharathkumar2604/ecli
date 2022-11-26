@@ -12,7 +12,7 @@ public class Mobiles {
 	
 	void search(Brands brand)
 	{
-		boolean isBrandAvailable =false;
+		boolean isBrandAvailable =false;//
 		
 		for (int i=0;i<brands.length;i++)
 		{

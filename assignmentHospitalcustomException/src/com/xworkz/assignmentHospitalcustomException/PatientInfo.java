@@ -5,7 +5,7 @@ import java.util.Objects;
 public class PatientInfo {
 
 	String name;
-	double fee;
+	double fee;//
 	
 	
 	

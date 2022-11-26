@@ -4,7 +4,7 @@ public class Outpatient {
 public static void main(String[] args) {
 	    
 	
-	Hospital info =new Hospital();
+	Hospital info =new Hospital();//
 	
 	
 	try

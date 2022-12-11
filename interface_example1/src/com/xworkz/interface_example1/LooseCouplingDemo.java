@@ -10,7 +10,7 @@ public class LooseCouplingDemo {
 	 
 	   // computer.slot(sony);
 	    
-	    computer.slot(epson);
+	    computer.slot(epson);//
 	    
 	}
 

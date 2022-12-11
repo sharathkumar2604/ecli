@@ -2,21 +2,22 @@ package com.xworkz.object;
 
 public class ToStringMethodObject {
 	
-	private String name="Raj";
+	private String name="sharath";
 
 	public static void main(String[] args) {
-		// String[] s= {"m"};
+		
 
 		ToStringMethodObject a = new ToStringMethodObject();//ToStringMethodObject() is class name
-		String string = a.toString();
-		System.out.println(string);
+		System.out.println(a.toString());
+		
 
 	}
 
 	@Override
 	public String toString() {
-		return "ToStringMethodObject[name:"+name+"]";
+		return "ToStringMethodObject [name=" + name + "]";
 	}
+
 	
 
 	

@@ -12,6 +12,5 @@ public class ConvertNameToBytes{
 		
 		System.out.println(Arrays.toString(arr));
 	}
-
 }
 

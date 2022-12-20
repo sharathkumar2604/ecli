@@ -6,7 +6,7 @@ import java.util.List;
 import com.xworkz.Theater_one.TheaterDTO;
 
 public class TheaterRepoImpl implements TheaterRepo {
-
+//
 	List<TheaterDTO> list = new ArrayList<TheaterDTO>();
 
 	@Override

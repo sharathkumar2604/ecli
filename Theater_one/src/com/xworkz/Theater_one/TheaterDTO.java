@@ -15,7 +15,7 @@ public class TheaterDTO {
 	private int pincode;
 	private String movie_name;
 	
-	
+	//
 	
 	public TheaterDTO()
 	{

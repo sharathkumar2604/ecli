@@ -6,6 +6,7 @@ import com.xworkz.Theater_one.service.TheaterServiceImpl;
 public class TheaterRunner {
 
 	public static void main(String[] args) {
+		  //
 
 		TheaterDTO dto=new TheaterDTO("1", "PVR_theater", 3, 50, true, 2, 4, 50,"btm", 11111,"kgf");
 		TheaterDTO dto1=new TheaterDTO("2", "DRC_theater", 2, 60, true, 4, 5, 30,"rajajinagar", 22222,"kgf");

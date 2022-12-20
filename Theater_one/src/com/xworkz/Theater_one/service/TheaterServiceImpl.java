@@ -5,7 +5,7 @@ import com.xworkz.Theater_one.repository.TheaterRepo;
 import com.xworkz.Theater_one.repository.TheaterRepoImpl;
 
 public class TheaterServiceImpl implements TheaterService {
-
+//
 	TheaterRepo repo = new TheaterRepoImpl();
 
 	@Override
